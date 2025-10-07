@@ -1,0 +1,22 @@
+name: textcrypt
+description: A modular Dart package for text obfuscation and compression using various encoding/decoding techniques.
+version: 0.1.0
+homepage: 'https://github.com/suhail7cb/textcrypt'
+repository: 'https://github.com/suhail7cb/textcrypt.git'
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  meta: ^1.9.1
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^2.1.0
+
+topics:
+  - encryption
+  - compression
+  - encoding
+  - codec
+  - obfuscation
