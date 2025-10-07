@@ -1,10 +1,11 @@
 # TextCrypt
 
-A modular Dart package for text obfuscation and compression using various encoding/decoding techniques. This package provides a clean, extensible architecture for chaining multiple text transformation codecs together.
-
 [![Pub Version](https://img.shields.io/pub/v/textcrypt.svg)](https://pub.dev/packages/textcrypt)
 [![Dart SDK Version](https://badgen.net/pub/sdk-version/textcrypt)](https://pub.dev/packages/textcrypt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A modular Dart package for text obfuscation and compression using various encoding/decoding techniques. This package provides a clean, extensible architecture for chaining multiple text transformation codecs together.
+
 
 ## Features
 
@@ -29,7 +30,7 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  textcrypt: ^1.0.0
+  textcrypt: <latest_version>
 ```
 
 Then run:
@@ -247,6 +248,18 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## 🙋‍♂️ Support
+
+- 📧 **Issues**: [GitHub Issues](https://github.com/suhail7cb/textcrypt/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/suhail7cb/textcrypt/discussions)
+- ⭐ **Star this repo** if you find it useful!
+
+## Example
+
+See the [`example/`](example/) directory for a complete usage example.
+
 
 ## Changelog
 

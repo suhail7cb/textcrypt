@@ -185,7 +185,7 @@ void main() {
         const HexCodec(uppercase: true),
       ]);
 
-      const  input = 'Testing pipeline with configured codecs.';
+      const input = 'Testing pipeline with configured codecs.';
       final String encoded = pipeline.encode(input);
       final String decoded = pipeline.decode(encoded);
 
